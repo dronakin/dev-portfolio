@@ -1,3 +1,3 @@
 # dev-portfolio
 
-This is my developer portfolio site. Its intention is to be launched and serve as an online resume of sorts. I will be making it with HTML, CSS and JavaScript.
+This is my developer portfolio site. Its intention is to be launched and serve as an online resume containing my projects, skills and information about me. It is made with HTML, CSS and JavaScript.
